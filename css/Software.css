@@ -1,0 +1,69 @@
+html {
+    width: 100%;
+    height: 100%;
+    background-color: darkgreen;
+}
+body {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+}
+.contenuto {
+    background-color: white;
+    border: 2px outset grey;
+    border-radius: 3px;
+    width: 47%;
+    height: 70%;
+    float: right;
+    margin-right: 10px;
+    margin-top: 10px;
+}
+.immagini {
+    display: block;
+    width: 50%;
+    height: 50%;
+    float: left;
+}
+.ModificaDimensioniFoto {
+    border-radius: 3px;
+    border: 2px outset grey;
+    margin: 10px;
+}
+.foto1 {
+    width: 100%;
+    height: 33%;
+    display: block;
+    margin-left: 45%;
+}
+.foto2 {
+    width: 100%;
+    height: 33%;
+    display: block;
+    margin-left: 45%;
+    margin-top: 150px;
+}
+.foto3 {
+    margin-left: 45%;
+    margin-top: 150px;
+    width: 100%;
+    height: 33%;
+    display: block;
+}
+.titolo_software {
+    margin: 10px 10px 20px 20px;
+    border-bottom: 2px solid darkgreen;
+    color: darkgreen;
+    padding-top: 10px;
+    font-size: 55px;
+    text-align: center;
+    font-family: "Brush Script MT", serif;
+}
+.p_software {
+    font-size: 16px;
+    margin-left: 20%;
+    text-align: justify;
+}
+a{
+    color: darkgreen;
+    font-size: 14px;
+}
